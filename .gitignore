@@ -1,0 +1,13 @@
+# סביבה וירטואלית
+venv/
+.venv/
+env/
+
+# קבצי הגדרות סודיים
+.env
+
+# תיקיות זיכרון וקבצים זמניים
+storage/
+__pycache__/
+*.html
+extracted_data.json
